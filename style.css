@@ -33,7 +33,7 @@ margin: 60px auto;
 }
 .bottom-container{
 background-color: #66BFBF;
-padding: 50px 0 20px;
+padding: 20px 0 20px;
 }
 .skill-row{
   width:50%;
@@ -91,7 +91,7 @@ hr{
   border: dotted #EAF6F6 6px;
   border-bottom: none;
   width:4%;
-  margin:100px auto;
+  margin:50px auto;
 }
 .btn {
   background: #11cdd4;
